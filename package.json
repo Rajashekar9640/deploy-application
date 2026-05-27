@@ -1,7 +1,7 @@
 {
   "name": "nodejs-v2-blue",
   "version": "1.0.0",
-  "description": "Sample Node.js app with an About Me page for Hajra",
+  "description": "Sample Node.js app with an About Me page for rajashekar",
   "main": "app.js",
   "scripts": {
     "start": "node app.js"
